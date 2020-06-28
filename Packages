@@ -1,0 +1,17 @@
+Package: com.yourepo.mohadu31.deezelife03
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: 
+Depends: mobilesubstrate
+Conflicts: https://mohadu31.com/
+Filename: Deps/deezelife03
+Size: 46226
+MD5sum: eeff7a0768a4a7d9916890add3a8e16a
+SHA1: 5ec58d164457dc27c75c938b4af4a899b57c9415
+SHA256: 3107345689cf44676eef1b1125baf106412afa0b32a369159bea91e6445ff70d
+Section: Tweaks
+Priority: optional
+Description: Deezer Fully Premium 
+Author: mohadu31
+Depiction: https://proeskino.github.io/Pulanders/
+Name: deezelife03
