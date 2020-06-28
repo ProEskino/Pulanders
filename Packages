@@ -1,19 +1,36 @@
-
-Package: ‏com.yourepo.mohadu31.deezelife
-Name: deezelife
+Package: com.yourepo.mohadu31.deezelife03
 Version: 0.5
-Maintainer: 
-Author: 
-Description: 
-Installed-Size: 
 Architecture: iphoneos-arm
-Depends: ‏mobilesubstrate
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: Deps/deezelife.deb
-Depiction: https://proeskino.github.io/Pulanders/
-Icon:
+Maintainer: 
+Depends: mobilesubstrate
+Conflicts: https://mohadu31.com/
+Filename: Deps/deezelife03
 Size: 46226
-MD5Sum: eeff7a0768a4a7d9916890add3a8e16a
+MD5sum: eeff7a0768a4a7d9916890add3a8e16a
 SHA1: 5ec58d164457dc27c75c938b4af4a899b57c9415
 SHA256: 3107345689cf44676eef1b1125baf106412afa0b32a369159bea91e6445ff70d
-SHA512: 
+Section: Tweaks
+Priority: optional
+Description: Deezer Fully Premium 
+Author: mohadu31
+Depiction: https://proeskino.github.io/Pulanders/
+Name: deezelife03
+
+
+Package: com.yourepo.speedmx.localiapstore
+Version: 1.4-4
+Architecture: iphoneos-arm
+Maintainer: 
+Depends: mobilesubstrate
+Conflicts: https://www.speedmx.yourepo.com
+Filename: Deps/LocalIAPStore
+Size: 70246
+MD5sum: c0fdcf2869d44fa70ddc6ca855b2e78c
+SHA1: ca1c0fa0f46e4c0cf9512921e8950cc7b402d63e
+SHA256: 7d130f194f39fccbc0141e376c7d6eb452072a899362a7c1ebfc5fa1db4c9a66
+Section: Tweaks
+Priority: optional
+Description: IOS13.5
+Author: Pulanders
+Depiction: https://imgur.com/PKF7d4p
+Name: LocalIAPStore
