@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: 
 Depends: mobilesubstrate
 Conflicts: https://mohadu31.com/
-Filename: Deps/deezelife03
+Filename: Deps/Deezelife
 Size: 46226
 MD5sum: eeff7a0768a4a7d9916890add3a8e16a
 SHA1: 5ec58d164457dc27c75c938b4af4a899b57c9415
